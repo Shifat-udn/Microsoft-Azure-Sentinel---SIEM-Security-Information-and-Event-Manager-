@@ -15,7 +15,7 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
 </ul>
 
 
-<h3>2. Enviroment Step</h3>
+<h3>2. Enviroment Set Up</h3>
 <ul>
   <li>Setup and log on Azure Account and visit https://portal.azure.com/</li>
   <li>Go to create resource > Virtual machine
