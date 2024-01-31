@@ -20,24 +20,21 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
   <li>Setup and log on Azure Account and visit https://portal.azure.com/</li>
   <li>Go to create resource > Virtual machine
   <table>
-  <tr>
-    <td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/21b52823-993b-46c3-8d3d-952710c0e777">
-</td>
-    <td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/da35a590-492e-42df-bee8-f9fa01d5f273">
-</td>
-  </tr>
+  <tr><td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/21b52823-993b-46c3-8d3d-952710c0e777"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/da35a590-492e-42df-bee8-f9fa01d5f273"></td></tr>
   </table>
-
+ </li>
+  <li>Create new resource group
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/7950ac21-a54e-4761-9c62-90118234262f"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/a522aa62-f749-4daa-9c21-332c06515303"></td></tr>
+  </table>
   </li>
-  
+    <li>Set user & disk
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/a252e350-c2ea-4ca9-96db-da1b7e72f52f"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/c7f8b012-5044-4cdd-806e-7587e9f80d8f"></td></tr>
+  </table>
+  </li>
 </ul>
-<table>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
-  </tr>
-</table>
+
