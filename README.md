@@ -15,10 +15,19 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
 </ul>
 
 
-<h3>1. Enviroment Step</h3>
+<h3>2. Enviroment Step</h3>
 <ul>
   <li>Setup and log on Azure Account and visit https://portal.azure.com/</li>
-  <li>Go to create resource > Virtual machine </li>
+  <li>Go to create resource > Virtual machine
+  <table>
+  <tr>
+    <td>![image](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/21b52823-993b-46c3-8d3d-952710c0e777)
+</td>
+    <td>$![image](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/da35a590-492e-42df-bee8-f9fa01d5f273)
+</td>
+  </tr>
+  </li>
+  
 </ul>
 <table>
   <tr>
