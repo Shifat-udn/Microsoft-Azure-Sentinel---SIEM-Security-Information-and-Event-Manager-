@@ -1,0 +1,6 @@
+
+FAILED_ATTEMPT_CL 
+| take 100 
+| extend rawvar = split(RawData , ",")
+| extend Country = split( rawvar[6] , ":")[1] ,latitude= split( rawvar[0] , ":")[1], longitude= split( rawvar[1] , ":")[1] ,ip = split( rawvar[4] , ":")[1]
+| summarize Count=count() by tostring(ip), lat = tostring (latitude= split( rawvar[0] , ":")[1]) , lon = tostring (longitude= split( rawvar[1] , ":")[1]), country = tostring (con= split( rawvar[6] , ":")[1]), lvl = strcat(tostring (con= split( rawvar[6] , ":")[1]),"-",split( rawvar[4] , ":")[1])
