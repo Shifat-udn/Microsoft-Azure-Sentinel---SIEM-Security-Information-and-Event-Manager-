@@ -36,5 +36,20 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
   <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/c7f8b012-5044-4cdd-806e-7587e9f80d8f"></td></tr>
   </table>
   </li>
+      <li>Create New Network Security Group and allow all traffic 
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/74a6896d-0132-47c7-bc5e-97df456d21f8"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/eacdfd35-6eea-4c24-8e8a-f8fa97ec9800"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/26af24b0-9466-4f0f-8a54-a90fa6c765e4"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/8ee9beef-39df-42d9-b6a7-65e001b1b79a"></td></tr>
+  </table>
+  </li>
+  <li>Review and Create New Virtual Mechine 
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/b60b34e1-3edf-43f8-85be-cee643c3ed8b"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/a8db4eba-5677-45a3-a972-b0bfe2a39792"></td>
+ </tr>
+  </table>
+  </li>
 </ul>
 
