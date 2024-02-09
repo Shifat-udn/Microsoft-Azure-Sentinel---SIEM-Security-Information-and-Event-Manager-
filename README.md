@@ -52,4 +52,23 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
   </table>
   </li>
 </ul>
-
+<hr/>
+<h2>2. Log analytics workspace </h2>
+<ul>
+    <li>Create a Log analytics workspace under same resource group
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/6d654778-df9f-41dc-8f08-d33843034216"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/96dc409e-5548-4b7a-98db-9800ec40e728"></td></tr>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/6d1c7bc0-85bb-405d-80c0-f92b3086fe88"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/ca74df7d-35ad-46c5-bfd4-70eed94a8001"></td></tr>
+  </table>
+  </li>
+   <li> Turn on Microsoft Defender for Cloud, Select Log analytics (rules-honeypot) from Enviroment Settings. also turn off SQL server on machines from defender plans and select "All Events from Data collection" 
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/4058aea9-0db8-4c96-ba02-12cded462070"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/4d0542cb-0573-46e2-935d-c719e2cc1434"></td></tr>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/200d5f55-53a1-4523-aa8e-1ea5c3553669"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/e2a57087-9f58-4f03-9e1d-c875bbc4b08c"></td></tr>
+  </table>
+  </li>
+</ul>
