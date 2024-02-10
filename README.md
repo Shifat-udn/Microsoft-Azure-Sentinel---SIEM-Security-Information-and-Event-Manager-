@@ -5,7 +5,7 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
 
 ![image](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/847179a0-09c1-40fa-b012-406458e6f02b)
 <hr/>
-<h3>1.	Technology Used </h3>
+<h3>Technology Used </h3>
 <ul>
   <li>Exposed Virtual machine</li>
   <li>Log Analytics Workspace</li> 
@@ -15,7 +15,7 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
 </ul>
 
 
-<h3>2. Enviroment Setup</h3>
+<h2>1. Azure Virtual Machine Setup</h2>
 <ul>
   <li>Setup and log on Azure Account and visit https://portal.azure.com/</li>
   <li>Go to create resource > Virtual machine
@@ -114,6 +114,30 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
   <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/a364d7bf-508b-4d43-9ad2-fa162197199c"></td>
   <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/88fc55b1-6168-47e8-9976-3570748cd7fb"></td>
 </tr>
+  </table>
+  </li>
+     <li> Now check for the data on Log analysis workspace   
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/0ee15a6e-4fe6-4935-b424-0c97f41c1992"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/c8efc898-245b-4e1c-9c54-6b7f04224a47"></td></tr>
+  </table>
+  </li>
+</ul>
+<hr/>
+<h2>5. Visualize data - Azure Sentinel  </h2>
+<ul>
+       <li> go to Azure Sentinel and add Work book 
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/fb251825-8421-4a5b-a779-8c614cd97a99"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/638cf519-4d1c-4e21-8d30-addeec56f1d9"></td></tr>
+  </table>
+  </li>
+         <li> Finally , Add query from the <a href="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/KQL.txt">link</a> and save it
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/517c6019-f0e6-42d1-9310-b55ebe417186"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/727a23d6-5e61-4986-b012-b07a5d7dcffb"></td></tr>
+      <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/a2ba6691-408c-4594-bde4-a3fd5ab4339d"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/8ac0915f-3051-4276-8795-aeaa1563e49d"></td></tr>
   </table>
   </li>
 </ul>
