@@ -71,4 +71,49 @@ Designed and implemented Sentinel, a cybersecurity project leveraging Microsoft 
   <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/e2a57087-9f58-4f03-9e1d-c875bbc4b08c"></td></tr>
   </table>
   </li>
+     <li> Now go back to Log analytics workspace and connect the VM
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/0d6eb42e-2403-49bd-b3c3-650114220521"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/c3c3db8d-4900-4e8f-81b1-8a2866f1c7e1"></td></tr>
+  </table>
+  </li>
+</ul>
+<hr/>
+<h2>3. Connect everything with Microsoft Sentinel </h2>
+<ul>
+    <li>Open Microsoft Sentinel and add Log analytics workspace to it
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/87585556-6bcf-466d-8cdf-e7257c6e380e"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/9921d7c1-3f9c-4fe6-a817-05017f63ed62"></td>
+  <td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/bd7df04f-aae7-48a7-b82f-697bdcc3701f"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/5c24c5aa-0475-4cf5-98c4-2ef60900f08d"></td></tr>
+  </table>
+  </li>
+</ul>
+<hr/>
+<h2>4. Configur Endpoint Honeypot for colleting logs </h2>
+<ul>
+    <li>Collect API Key from https://app.ipgeolocation.io/dashboard and edit the powershell based on the <a href="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/Log_Exporter.ps1">file</a>. Then connect the VM with Remote desktop, open Power Shell ISE and run the powershell code. A log file will be created with ip location.
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/f8e1c422-25bd-4e58-a706-69286658c3de"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/88424df9-e9f3-404d-b418-30621cdf4cc4"></td>
+</tr>
+  </table>
+  </li>
+      <li> Copy the sample data to the work station. Then go to Log analytics workspace > Tables > Create Table > New Custom logs-MMA based . 
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/5db7f4ec-beb5-48bb-83c2-09633a6e1c32"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/9fbb4404-7a9e-44d2-8881-6deb12ae7be3"></td>
+</tr>
+  </table>
+  </li>
+   <li> Create custom log with collection path  
+  <table>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/067e19e0-25b6-454e-bb05-33802049864b"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/afd3c540-511f-4ad3-8f45-df38d2d09b7e"></td></tr>
+  <tr><td> <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/a364d7bf-508b-4d43-9ad2-fa162197199c"></td>
+  <td><img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/assets/141313925/88fc55b1-6168-47e8-9976-3570748cd7fb"></td>
+</tr>
+  </table>
+  </li>
 </ul>
